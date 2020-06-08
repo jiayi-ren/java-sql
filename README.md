@@ -215,32 +215,20 @@ Table Name: people
 
 | person_id | person_name | city_dweller | fence_yard |
 |------------|------------|------------|------------|------------|------------|------------|------------|------------|
-| 1 | Jane | 1 | 0 |
-| 2 | Bob | 0 | 0 |
-| 3 | Ginger | 0 | 1 |
+| 1 | Jane | 1 | 0 | 2 | Bob | 0 | 0 | 3 | Ginger | 0 | 1 |
       
 
 Table Name: pet
 
 | id | pet_type |
 |------------|------------|------------|------------|------------|------------|------------|------------|------------|
-| 1 | Dog  |
-| 2 | Cat |
-| 3 | Horse |
-| 4 | Turtle |
-| 5 | Fish |    
+| 1 | Dog | 2 | Cat | 3 | Horse | 4 | Turtle | 5 | Fish |    
 
 Table Name: pets_list
 
 | pet_id | pet_name | pet_type | owner_id |
 |------------|------------|------------|------------|------------|------------|------------|------------|------------|
-| 1 | Ellie | 1 | 1 |
-| 2 | Tiger | 2 | 1 |
-| 3 | Toby | 4 | 1 |
-| 4 | Joe | 3 | 2 |
-| 5 | Ginger | 1 | 3 |
-| 6 | Miss Kitty | 2 | 3 |
-| 7 | Bubble | 5 | 3 |
+| 1 | Ellie | 1 | 1 | 2 | Tiger | 2 | 1 | 3 | Toby | 4 | 1 | 4 | Joe | 3 | 2 | 5 | Ginger | 1 | 3 | 6 | Miss Kitty | 2 | 3 | 7 | Bubble | 5 | 3 |
 
 ---
 
